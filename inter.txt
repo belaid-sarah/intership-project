@@ -1,0 +1,7 @@
+main website for the payment 
+signature electronique 
+system credit : use the credit to 
+3 fonctionalities :
+backend : fast api 
+system tokens : base de donnees repetitives 
+ we 
